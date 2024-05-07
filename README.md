@@ -4,7 +4,7 @@
 
 **Última atualização: 07/05/2024**
 
-O Sua Anotação - Kits de Anotação respeita e valoriza a privacidade dos usuários de nosso aplicativo. Esta Política de Privacidade descreve como coletamos, usamos e protegemos suas informações quando você utiliza nosso aplicativo.
+O Sua Lanterna respeita e valoriza a privacidade dos usuários de nosso aplicativo. Esta Política de Privacidade descreve como coletamos, usamos e protegemos suas informações quando você utiliza nosso aplicativo.
 
 ## Informações Coletadas
 
