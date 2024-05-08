@@ -1,4 +1,4 @@
-# Politica-de-Privacidade - Lanterna
+# Politica-de-Privacidade - Sua Lanterna
 
 # Política de Privacidade
 
