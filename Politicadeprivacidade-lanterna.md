@@ -8,15 +8,15 @@ O Sua Lanterna respeita e valoriza a privacidade dos usuários de nosso aplicati
 
 ## Informações Coletadas
 
-- **Informações de Uso:** Podemos coletar informações sobre como você utiliza o aplicativo, incluindo quais recursos você acessa e como interage com eles.
+- **Informações de Uso:** Nós respeitamos sua privacidade e não coletamos informações sobre como você utiliza o aplicativo, incluindo quais recursos você acessa e como interage com eles. Sua experiência com o aplicativo é completamente anônima e não rastreamos suas atividades.
 
-- **Informações de Dispositivo:** Podemos coletar informações sobre o seu dispositivo móvel, como modelo, sistema operacional e identificadores únicos.
+- **Informações de Dispositivo:** Em total conformidade com sua privacidade, não coletamos informações sobre o seu dispositivo móvel, como modelo, sistema operacional e identificadores únicos. Nosso compromisso é garantir que suas informações pessoais permaneçam confidenciais e seguras.
 
 ## Uso de Informações
 
-- **Melhoria do Serviço:** Utilizamos as informações coletadas para melhorar e otimizar o funcionamento do aplicativo, incluindo a identificação de problemas técnicos.
+- **Melhoria do Serviço:** Apesar de não coletarmos dados pessoais, utilizamos as informações coletadas de forma anônima para melhorar e otimizar o funcionamento do aplicativo, incluindo a identificação de problemas técnicos e aprimoramento da experiência do usuário.
 
-- **Personalização:** Podemos usar suas informações para personalizar sua experiência dentro do aplicativo, oferecendo conteúdos e recursos relevantes para você.
+- **Personalização:** Comprometemo-nos a personalizar sua experiência dentro do aplicativo de forma anônima, oferecendo conteúdos e recursos relevantes para você, sem o uso de dados pessoais identificáveis.
 
 ## Compartilhamento de Informações
 
