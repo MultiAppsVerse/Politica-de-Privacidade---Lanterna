@@ -1,10 +1,10 @@
-# Politica-de-Privacidade - Sua Lanterna
+# Politica-de-Privacidade - Flashlight - Lanterna.
 
 # Política de Privacidade
 
 **Última atualização: 07/05/2024**
 
-O Sua Lanterna respeita e valoriza a privacidade dos usuários de nosso aplicativo. Esta Política de Privacidade descreve como coletamos, usamos e protegemos suas informações quando você utiliza nosso aplicativo.
+O Flashlight - Lanterna respeita e valoriza a privacidade dos usuários de nosso aplicativo. Esta Política de Privacidade descreve como coletamos, usamos e protegemos suas informações quando você utiliza nosso aplicativo.
 
 ## Informações Coletadas
 
